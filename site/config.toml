@@ -9,6 +9,17 @@ googleAnalytics = ""
 paginate = 10
 canonifyurls = true
 
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+[[menu.main]]
+name = "Class details"
+pre = "<h3></h3>"
+url = "/about"
+weight = 100
+
 [params]
   description = "Spreading the art of Kathak to UK."
   cover = "images/cover.jpg"
