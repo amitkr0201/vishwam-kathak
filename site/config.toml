@@ -16,12 +16,10 @@ url = "/"
 weight = -120
 [[menu.main]]
 name = "Class details"
-pre = "<h3>Details about classes</h3>"
 url = "/classes"
 weight = 100
 [[menu.main]]
 name = "About Me"
-pre = "<h3>About Me</h3>"
 url = "/about"
 weight = 100
 
