@@ -7,13 +7,19 @@ title = "About Me"
 
 ## Vishwam Kathak Kendra
 
+
+
 ### Kathak classes
+
+
 
 #### Harrow
 
 - _Classes For_: Kids
 - _When_: Every Monday 4PM - 5PM
 - _Where_: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
+
+
 
 #### Hounslow
 
