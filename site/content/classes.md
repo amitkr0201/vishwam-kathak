@@ -1,12 +1,9 @@
 +++
 date = "2019-02-06T14:12:23-04:00"
 draft = false
-title = "About Me"
+title = "Vishwam Kathak Kendra"
 
 +++
-
-## Vishwam Kathak Kendra
-
 
 
 ### Kathak classes
