@@ -1,7 +1,7 @@
 +++
-date = "2019-01-19T14:12:23-04:00"
+date = "2019-02-06T14:12:23-04:00"
 draft = false
-title = "about"
+title = "About Me"
 
 +++
 
