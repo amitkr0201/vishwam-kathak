@@ -5,8 +5,6 @@ draft = false
 title = "Vishwam Kathak Kendra"
 noauthor = true
 share = true
-[menu.main]
-weight = 111
 +++
 
 
