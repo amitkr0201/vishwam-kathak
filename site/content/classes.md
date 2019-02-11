@@ -8,8 +8,6 @@ share: true
 ---
 ### Kathak classes
 
-![Vishwam Kathak Kendra](/img/blog/20181103_184825-small.jpeg)
-
 #### Harrow
 
 * _Classes For_: Kids
