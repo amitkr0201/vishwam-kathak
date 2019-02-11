@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://vishwamkathak.co.uk/"
 languageCode = "en-gb"
 title = "Vishwam Kathak Kendra"
 theme = "hugo-theme-casper"
