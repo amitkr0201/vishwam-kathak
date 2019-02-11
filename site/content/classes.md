@@ -1,11 +1,11 @@
-+++
-comments = false
-date = "2019-02-06T14:12:23-04:00"
-draft = false
-title = "Vishwam Kathak Kendra"
-noauthor = true
-share = true
-+++
+---
+title: Vishwam Kathak Kendra
+date: '2019-02-06T14:12:23-04:00'
+image: /img/blog/20181103_184825-small.jpeg
+comments: false
+noauthor: true
+share: true
+---
 
 
 ### Kathak classes
