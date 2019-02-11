@@ -1,7 +1,7 @@
 ---
 title: Vishwam Kathak Kendra
 date: '2019-02-11T15:12:23+00:00'
-image: ''
+image: /img/blog/20181103_184825-small.jpeg
 comments: false
 noauthor: true
 share: true
