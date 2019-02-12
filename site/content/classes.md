@@ -18,4 +18,4 @@ share: true
 
 * _Classes for_: Kids
 * _When_: Every Sunday 5 PM - 6PM
-* _Where_: Coming soon!
+* _Where_: Hounslow Multi-culture centre. **TW3 3UQ**
