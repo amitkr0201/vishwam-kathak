@@ -6,23 +6,15 @@ comments: false
 noauthor: true
 share: true
 ---
-# For Kids
+### Classes for Kids
 
-
-| | | |
-|---|-|-|
-| Harrow | | |
-| Every Monday | 5 PM - 6 PM | Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA** |
-| Houslow| | | 
-| Every Sunday| 4 PM - 5 PM | Hounslow Multi-culture centre. **TW3 3UQ**| 
-
+#### Harrow
 
 __When__: Every Monday 5PM - 6PM
 
 __Where__: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
 
-### Hounslow
----
+#### Hounslow
 
 __When__: Every Sunday 4 PM - 5PM
 
@@ -30,10 +22,9 @@ __Where__: Hounslow Multi-culture centre. **TW3 3UQ**
 
 
 ---
-## For Adults
+## Classes for Adults
 
-### Harrow
----
+#### Harrow
 
 __When__: Every Monday
    - 6 PM - 7 PM
@@ -42,8 +33,7 @@ __When__: Every Monday
 
 __Where__: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
 
-### Hayes
----
+#### Hayes
 
 __When__: Every Thursday 7:30 PM - 8:30 PM
 
