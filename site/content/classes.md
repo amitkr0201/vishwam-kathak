@@ -29,9 +29,10 @@ __Where__: Hounslow Multi-culture centre. **TW3 3UQ**
 #### Harrow
 
 __When__: Every Monday
-   - 6 PM - 7 PM
-   - 7 PM - 8 PM
-   - 8 PM - 9 PM
+
+    - 6 PM - 7 PM
+    - 7 PM - 8 PM
+    - 8 PM - 9 PM
 
 __Where__: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
 
