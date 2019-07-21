@@ -6,10 +6,16 @@ comments: false
 noauthor: true
 share: true
 ---
-## For Kids
+# For Kids
 
-### Harrow
----
+
+| | | |
+|---|-|-|
+| Harrow | | |
+| Every Monday | 5 PM - 6 PM | Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA** |
+| Houslow| | | 
+| Every Sunday| 4 PM - 5 PM | Hounslow Multi-culture centre. **TW3 3UQ**| 
+
 
 __When__: Every Monday 5PM - 6PM
 
