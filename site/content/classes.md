@@ -8,7 +8,6 @@ share: true
 ---
 ## For Kids
 
----
 ### Harrow
 ---
 
@@ -16,7 +15,6 @@ __When__: Every Monday 5PM - 6PM
 
 __Where__: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
 
----
 ### Hounslow
 ---
 
@@ -28,7 +26,6 @@ __Where__: Hounslow Multi-culture centre. **TW3 3UQ**
 ---
 ## For Adults
 
----
 ### Harrow
 ---
 
@@ -39,7 +36,6 @@ __When__: Every Monday
 
 __Where__: Harrow Arts Centre, 171 Uxbridge Road, Harrow **HA5 4EA**
 
----
 ### Hayes
 ---
 
